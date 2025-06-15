@@ -1,0 +1,10 @@
+
+{
+  "appId": "app.lovable.2d0a3895efe440c6a8fea2deef64f16f",
+  "appName": "fin-flow-agent",
+  "webDir": "dist",
+  "server": {
+    "url": "https://2d0a3895-efe4-40c6-a8fe-a2deef64f16f.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  }
+}
